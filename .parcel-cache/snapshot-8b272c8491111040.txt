@@ -1,4 +1,5 @@
-6028
+6031
+77/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.e37f48ea.js.map1717733938450830944 0
 70/home/ishwar/Desktop/Personal/Projects/forkify-app/src/img/favicon.png1716878794090001000 0
 79/home/ishwar/Desktop/Personal/Projects/forkify-app/src/sass/_searchResults.scss1716878794090001000 0
 72/home/ishwar/Desktop/Personal/Projects/forkify-app/src/sass/_header.scss1716878794090001000 0
@@ -1180,6 +1181,7 @@
 70/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/stable1717657660434102018 1
 112/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree1717657661330190095 1
 108/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/optimizer-htmlnano/node_modules/.bin1717657694313336762 1
+73/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.e37f48ea.js1717733938446830604 0
 100/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/package-manager/src/utils.js1717657660026061884 0
 81/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/core/util.js1717657657169779968 0
 133/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/css/syntaxes.schema.json1717657661806236832 0
@@ -1725,7 +1727,7 @@
 124/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/core/test/fixtures/config-plugin-not-found/.parcelrc1717657660402098870 0
 103/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/watcher-linux-x64-glibc/LICENSE1717657657213784320 0
 121/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/css-select/node_modules/domhandler/lib/esm/index.d.ts.map1717657660474105953 0
-83/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/forkify-app.3464ddca.js.map1717676475948069597 0
+83/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/forkify-app.3464ddca.js.map1717731699641461620 0
 95/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/csso/cjs/replace/Percentage.cjs1717657655761640444 0
 89/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/posthtml-render/readme.md1717657657593821903 0
 105/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/watcher-linux-x64-glibc/README.md1717657657213784320 0
@@ -2071,7 +2073,7 @@
 98/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/core/test/fixtures/context1717657660746132708 1
 92/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/nth-check/lib/index.d.ts.map1717657655545619003 0
 103/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/svgo/plugins/convertOneStopGradients.js1717657656445708261 0
-79/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/forkify-app.3464ddca.js1717676475948069597 0
+79/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/forkify-app.3464ddca.js1717731699637461344 0
 90/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/nth-check/lib/index.js.map1717657655545619003 0
 89/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/core/lib/utils.js1717657660742132314 0
 114/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/caniuse-lite/data/features/css-element-function.js1717657656429706676 0
@@ -2346,7 +2348,7 @@
 144/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/restructure/3-disjoinRuleset.js1717657660890146873 0
 85/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/mdn-data/api/index.js1717657655485613047 0
 86/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/mdn-data/css/readme.md1717657655497614238 0
-55/home/ishwar/Desktop/Personal/Projects/forkify-app/dist1717676894474247003 1
+55/home/ishwar/Desktop/Personal/Projects/forkify-app/dist1717733246085765766 1
 103/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/caniuse-lite/data/features/xhtmlsmil.js1717657657745836936 0
 87/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/bundler-default1717657659894048881 1
 106/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/core/src/requests/ConfigRequest.js1717657660442102805 0
@@ -2372,7 +2374,7 @@
 106/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/svgo/plugins/removeUselessStrokeAndFill.js1717657656453709054 0
 93/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/type-fest/source/mutable.d.ts1717657656217685670 0
 109/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/helpers/src/_interop_require_default.mjs1717657656725736005 0
-78/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.f7626f62.css.map1717676475944069999 0
+78/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.f7626f62.css.map1717733246085765766 0
 93/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/entities/lib/maps/legacy.json1717657655753639650 0
 123/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_dump.11717657657425805287 0
 90/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/nth-check/lib/compile.d.ts1717657655545619003 0
@@ -2403,7 +2405,7 @@
 100/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/diagnostic/lib/diagnostic.js1717657660342092968 0
 101/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/svgo/plugins/removeEmptyContainers.js1717657656449708658 0
 94/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/type-fest/source/value-of.d.ts1717657656217685670 0
-73/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/logo.726d37a8.png1717676475936070803 0
+73/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/logo.726d37a8.png1717733246081765577 0
 84/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/core/LICENSE1717657660402098870 0
 94/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/nth-check/lib/esm/compile.d.ts1717657655545619003 0
 120/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest.c1717657657533815969 0
@@ -2515,7 +2517,7 @@
 134/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/src/index.js1717657660450103592 0
 90/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/svgo/plugins/removeDesc.js1717657656449708658 0
 117/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/optimizer-svgo/node_modules/svgo/package.json1717657661334190488 0
-77/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.62406edb.js.map1717676894474247003 0
+77/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.62406edb.js.map1717731922065705652 0
 77/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/lmdb/level.js1717657657777840101 0
 105/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/caniuse-lite/data/features/css-subgrid.js1717657656437707468 0
 81/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/sass/sass.node.js1717658718040074280 0
@@ -2526,7 +2528,7 @@
 136/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Hash.js1717657661322189310 0
 119/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/helpers/esm/_class_apply_descriptor_destructure.js1717657656701733627 0
 80/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/cosmiconfig/dist1717657656141678140 1
-76/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/favicon.8b2f57bf.png1717676475932071205 0
+76/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/favicon.8b2f57bf.png1717731699617459965 0
 94/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/lines-and-columns/package.json1717657655745638856 0
 95/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/caniuse-lite/data/regions/NC.js1717657657377800540 0
 114/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/runtime-js/lib/helpers/node/html-loader.js1717657659229983447 0
@@ -2552,7 +2554,7 @@
 95/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/utils/src/getRootDir.js1717657659866046122 0
 85/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/color-convert/LICENSE1717657656429706676 0
 104/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/source-map/dist/wasm-bindings.js1717657658657927019 0
-66/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.html1717676475944069999 0
+66/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.html1717732722437416997 0
 132/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none/package.json1717657660746132708 0
 115/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.c1717657657525815177 0
 119/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/lmdb.h1717657657773839705 0
@@ -2562,7 +2564,7 @@
 100/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/caniuse-lite/data/features/jpegxr.js1717657656469710639 0
 112/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/helpers/_/_to_consumable_array/package.json1717657656717735212 0
 79/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/.bin/sshpk-sign1717657830912773384 0
-74/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.f7626f62.css1717676475944069999 0
+74/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.f7626f62.css1717733246081765577 0
 89/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/svgo/plugins/sortAttrs.js1717657656453709054 0
 114/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/css-select/node_modules/entities/lib/decode.js.map1717657661510207769 0
 79/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/tslib/README.md1717657656217685670 0
@@ -2701,7 +2703,7 @@
 102/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/transformer-image/package.json1717657659037964527 0
 126/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/posthtml/node_modules/posthtml-parser/dist/location-tracker.js1717657660850142938 0
 85/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/chokidar/package.json1717658717752129027 0
-73/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.62406edb.js1717676894474247003 0
+73/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/index.62406edb.js1717731922065705652 0
 112/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/css-tree/lib/syntax/node/index-parse-selector.js1717657656049669024 0
 93/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/htmlnano/lib/presets/safe.mjs1717657658829943999 0
 90/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/css-what/lib/es/index.d.ts1717657655753639650 0
@@ -3998,6 +4000,7 @@
 94/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/helpers/src/_identity.mjs1717657656725736005 0
 91/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/sass/types/value/index.d.ts1717658718052072007 0
 102/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/caniuse-lite/data/features/promises.js1717657657389801726 0
+74/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/icons.dfd7a6db.svg1717733938406827203 0
 92/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/sass/types/value/number.d.ts1717658718052072007 0
 105/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/source-map-js/lib/source-map-generator.js1717657655557620194 0
 83/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/types/index.js1717657657089772056 0
@@ -4066,7 +4069,7 @@
 72/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/get-port1717657659610020894 1
 100/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/cosmiconfig/dist/ExplorerSync.js.map1717657656137677743 0
 82/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/get-port/readme.md1717657659610020894 0
-74/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/icons.21bad73c.svg1717676475932071205 0
+74/home/ishwar/Desktop/Personal/Projects/forkify-app/dist/icons.21bad73c.svg1717731699621460241 0
 81/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/get-port/index.js1717657659610020894 0
 104/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/helpers/esm/_object_spread_props.js1717657656705734023 0
 80/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/get-port/license1717657659610020894 0
@@ -4246,7 +4249,7 @@
 107/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@mischnic/json-sourcemap/dist/index.js.flow1717657658889949923 0
 102/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@mischnic/json-sourcemap/dist/index.js1717657658889949923 0
 104/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@mischnic/json-sourcemap/dist/index.d.ts1717657658889949923 0
-71/home/ishwar/Desktop/Personal/Projects/forkify-app/src/js/controller.js1717731922033705648 0
+71/home/ishwar/Desktop/Personal/Projects/forkify-app/src/js/controller.js1717734077972992725 0
 86/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/term-size/package.json1717657658657927019 0
 101/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@mischnic/json-sourcemap/package.json1717657658889949923 0
 82/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/chalk/package.json1717657659806040209 0
@@ -5869,7 +5872,7 @@
 93/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/helpers/src/_dispose.mjs1717657656725736005 0
 110/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@parcel/core/lib/requests/ValidationRequest.js1717657660742132314 0
 91/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/helpers/src/_using.mjs1717657656729736401 0
-61/home/ishwar/Desktop/Personal/Projects/forkify-app/index.html1717666543340677113 0
+61/home/ishwar/Desktop/Personal/Projects/forkify-app/index.html1717733938306818701 0
 94/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/helpers/src/_ts_param.mjs1717657656729736401 0
 100/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/@swc/helpers/src/_async_iterator.mjs1717657656721735608 0
 114/home/ishwar/Desktop/Personal/Projects/forkify-app/node_modules/csso/node_modules/css-tree/lib/convertor/create.js1717657660470105559 0
