@@ -1,42 +1,33 @@
-const recipeContainer = document.querySelector('.recipe');
-
-const timeout = function (s) {
-  return new Promise(function (_, reject) {
-    setTimeout(function () {
-      reject(new Error(`Request took too long! Timeout after ${s} second`));
-    }, s * 1000);
-  });
+const recipeContainer = document.querySelector(".recipe");
+const timeout = function(s) {
+    return new Promise(function(_, reject) {
+        setTimeout(function() {
+            reject(new Error(`Request took too long! Timeout after ${s} second`));
+        }, s * 1000);
+    });
 };
-
 // https://forkify-api.herokuapp.com/v2
-
 //////////////////////////////////////
-
-const showRecipe = async function(){
-  try {
-    const response = await fetch(`https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886`);
-    const data = await response.json();
- 
- 
-    if (!response.ok) throw new Error(`${data.message} ${data.status}`);
-
-    let {recipe} = data.data;
-    recipe = {
-      id: recipe.id,
-      image: recipe.image_url,
-      ingredients: recipe.ingredients,
-      publisher: recipe.publisher,
-      servings: recipe.servings,
-      cookingTime: recipe.cooking_time,
-      ingredients: recipe.ingredients,
-      title: recipe.title,
-      source: recipe.sourceUrl,
-    }
-
-    console.log(data);
-    console.log("Recipe: " , recipe); 
-   
-    const markup = `
+const showRecipe = async function() {
+    try {
+        const response = await fetch(`https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886`);
+        const data = await response.json();
+        if (!response.ok) throw new Error(`${data.message} ${data.status}`);
+        let { recipe } = data.data;
+        recipe = {
+            id: recipe.id,
+            image: recipe.image_url,
+            ingredients: recipe.ingredients,
+            publisher: recipe.publisher,
+            servings: recipe.servings,
+            cookingTime: recipe.cooking_time,
+            ingredients: recipe.ingredients,
+            title: recipe.title,
+            source: recipe.sourceUrl
+        };
+        console.log(data);
+        console.log("Recipe: ", recipe);
+        const markup = `
         <figure class="recipe__fig">
           <img src="${recipe.image}" alt="${recipe.title}" class="recipe__img" />
           <h1 class="recipe__title">
@@ -88,7 +79,7 @@ const showRecipe = async function(){
         <div class="recipe__ingredients">
           <h2 class="heading--2">Recipe ingredients</h2>
           <ul class="recipe__ingredient-list">
-           ${recipe.ingredients.map(ing => {
+           ${recipe.ingredients.map((ing)=>{
             return `<li class="recipe__ingredient">
               <svg class="recipe__icon">
                 <use href="src/img/icons.svg#icon-check"></use>
@@ -99,8 +90,8 @@ const showRecipe = async function(){
                 ${ing.description}
               </div>
             </li>
-`
-    }).join('')}
+`;
+        }).join("")}
           </ul>
           </div>  
           
@@ -122,14 +113,13 @@ const showRecipe = async function(){
               <use href="src/img/icons.svg#icon-arrow-right"></use>
             </svg>
           </a>
-        </div>`
-        recipeContainer.innerHTML = '';
-        recipeContainer.insertAdjacentHTML("afterbegin",markup);
-  }
-  catch(err){
-    alert(err);
-  }
- }
+        </div>`;
+        recipeContainer.innerHTML = "";
+        recipeContainer.insertAdjacentHTML("afterbegin", markup);
+    } catch (err) {
+        alert(err);
+    }
+};
+showRecipe();
 
-
- showRecipe();
+//# sourceMappingURL=index.62406edb.js.map
