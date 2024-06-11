@@ -95,6 +95,11 @@ class Recipeview{
         </div>`;
     }
 
+    addHandlerRender(handler){
+      const evnets = ['hashchange','load'];
+      evnets.forEach(ev => addEventListener(ev,handler));
+    }
+
     #generateMakupIngredient(ing) {
       return `<li class="recipe__ingredient">
         <svg class="recipe__icon">
