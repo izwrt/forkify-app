@@ -77,7 +77,7 @@
 88D:\tutorials-practice\js\forkify-app\node_modules\snapdragon\node_modules\debug\Makefile133624241867351080 0
 109D:\tutorials-practice\js\forkify-app\node_modules\postcss-modules-scope\node_modules\postcss\lib\stringify.js133624241870533630 0
 113D:\tutorials-practice\js\forkify-app\node_modules\postcss-normalize-charset\node_modules\postcss\lib\container.js133624242918506696 0
-41D:\tutorials-practice\js\forkify-app\dist133625946715525057 1
+41D:\tutorials-practice\js\forkify-app\dist133626824949312444 1
 49D:\tutorials-practice\js\forkify-app\package.json133624244517460306 0
 108D:\tutorials-practice\js\forkify-app\node_modules\regenerate-unicode-properties\Binary_Property\XID_Start.js133624241861587442 0
 98D:\tutorials-practice\js\forkify-app\node_modules\@babel\helper-remap-async-to-generator\README.md133624241849245242 0
@@ -397,7 +397,7 @@
 98D:\tutorials-practice\js\forkify-app\node_modules\@parcel\packager-js\lib\ScopeHoistingPackager.js133624243577203060 0
 95D:\tutorials-practice\js\forkify-app\node_modules\jsdom\lib\jsdom\living\nodes\SVGTests-impl.js133624241862452866 0
 98D:\tutorials-practice\js\forkify-app\node_modules\stylehacks\node_modules\picocolors\picocolors.js133624242918026671 0
-57D:\tutorials-practice\js\forkify-app\src\js\controller.js133625945290815658 0
+57D:\tutorials-practice\js\forkify-app\src\js\controller.js133626819031400706 0
 100D:\tutorials-practice\js\forkify-app\node_modules\@babel\plugin-transform-destructuring\lib\index.js133624241852769997 0
 60D:\tutorials-practice\js\forkify-app\node_modules\domhandler133624242919040994 1
 79D:\tutorials-practice\js\forkify-app\node_modules\core-js\library\es7\system.js133624241880302213 0
@@ -519,7 +519,7 @@
 69D:\tutorials-practice\js\forkify-app\node_modules\whatwg-encoding\lib133624241835627434 1
 88D:\tutorials-practice\js\forkify-app\node_modules\fast-glob\package\out\types\entries.js133624241867661094 0
 108D:\tutorials-practice\js\forkify-app\node_modules\regenerate-unicode-properties\Script_Extensions\Soyombo.js133624241860872211 0
-63D:\tutorials-practice\js\forkify-app\src\js\views\recipeView.js133625943701204303 0
+63D:\tutorials-practice\js\forkify-app\src\js\views\recipeView.js133626824946838665 0
 94D:\tutorials-practice\js\forkify-app\node_modules\core-js\library\modules\es6.array.species.js133624241868371789 0
 136D:\tutorials-practice\js\forkify-app\node_modules\@parcel\optimizer-htmlnano\node_modules\dom-serializer\node_modules\entities\readme.md133624243577093026 0
 129D:\tutorials-practice\js\forkify-app\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-svgo\node_modules\css-tree\data133624243580229536 1
@@ -16397,7 +16397,7 @@
 70D:\tutorials-practice\js\forkify-app\node_modules\is-data-view\LICENSE133624241830066077 0
 75D:\tutorials-practice\js\forkify-app\node_modules\is-data-view\package.json133624241831249785 0
 67D:\tutorials-practice\js\forkify-app\node_modules\is-data-view\test133624241830794001 1
-59D:\tutorials-practice\js\forkify-app\dist\logo.726d37a8.png133625946711118141 0
+59D:\tutorials-practice\js\forkify-app\dist\logo.726d37a8.png133626824910061760 0
 76D:\tutorials-practice\js\forkify-app\node_modules\is-data-view\tsconfig.json133624241831883232 0
 71D:\tutorials-practice\js\forkify-app\node_modules\buffer-xor\inplace.js133624241846611941 0
 82D:\tutorials-practice\js\forkify-app\node_modules\is-data-view\.github\FUNDING.yml133624241834037967 0
@@ -22081,7 +22081,7 @@
 87D:\tutorials-practice\js\forkify-app\node_modules\caniuse-lite\data\features\imports.js133622534433802147 0
 82D:\tutorials-practice\js\forkify-app\node_modules\@swc\helpers\esm\_ts_metadata.js133622534432646939 0
 102D:\tutorials-practice\js\forkify-app\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js133622534433812148 0
-60D:\tutorials-practice\js\forkify-app\dist\index.f7626f62.css133625946713658640 0
+60D:\tutorials-practice\js\forkify-app\dist\index.f7626f62.css133626824910830992 0
 89D:\tutorials-practice\js\forkify-app\node_modules\caniuse-lite\data\features\indexeddb.js133622534433812148 0
 124D:\tutorials-practice\js\forkify-app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Identifier.js133624243578594191 0
 90D:\tutorials-practice\js\forkify-app\node_modules\caniuse-lite\data\features\indexeddb2.js133622534433822152 0
@@ -27072,7 +27072,7 @@
 101D:\tutorials-practice\js\forkify-app\node_modules\@babel\plugin-transform-new-target\lib\index.js.map133624241851644601 0
 106D:\tutorials-practice\js\forkify-app\node_modules\@babel\plugin-transform-named-capturing-groups-regex\lib133624241851804560 1
 110D:\tutorials-practice\js\forkify-app\node_modules\@babel\plugin-transform-named-capturing-groups-regex\LICENSE133624241851261313 0
-64D:\tutorials-practice\js\forkify-app\dist\index.f7626f62.css.map133625946713698753 0
+64D:\tutorials-practice\js\forkify-app\dist\index.f7626f62.css.map133626824910860917 0
 112D:\tutorials-practice\js\forkify-app\node_modules\@babel\plugin-transform-named-capturing-groups-regex\README.md133624241851432885 0
 116D:\tutorials-practice\js\forkify-app\node_modules\@babel\plugin-transform-named-capturing-groups-regex\tsconfig.json133624241852199926 0
 115D:\tutorials-practice\js\forkify-app\node_modules\@babel\plugin-transform-named-capturing-groups-regex\lib\index.js133624241851634549 0
@@ -27690,8 +27690,8 @@
 46D:\tutorials-practice\js\forkify-app\.cache\45133624242118345475 1
 46D:\tutorials-practice\js\forkify-app\.cache\46133624242118345475 1
 46D:\tutorials-practice\js\forkify-app\.cache\48133624242118345475 1
-62D:\tutorials-practice\js\forkify-app\dist\favicon.8b2f57bf.png133625946709867700 0
-59D:\tutorials-practice\js\forkify-app\dist\index.e37f48ea.js133625946710271371 0
-63D:\tutorials-practice\js\forkify-app\dist\index.e37f48ea.js.map133625946710321375 0
-60D:\tutorials-practice\js\forkify-app\dist\icons.dfd7a6db.svg133625946714498149 0
-60D:\tutorials-practice\js\forkify-app\dist\icons.21bad73c.svg133625946715515068 0
+60D:\tutorials-practice\js\forkify-app\dist\icons.dfd7a6db.svg133626824910051740 0
+62D:\tutorials-practice\js\forkify-app\dist\favicon.8b2f57bf.png133626824910051740 0
+60D:\tutorials-practice\js\forkify-app\dist\icons.21bad73c.svg133626824910051740 0
+59D:\tutorials-practice\js\forkify-app\dist\index.e37f48ea.js133626824949199123 0
+63D:\tutorials-practice\js\forkify-app\dist\index.e37f48ea.js.map133626824949277272 0
